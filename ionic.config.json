@@ -1,0 +1,7 @@
+{
+  "name": "auth0-link",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
