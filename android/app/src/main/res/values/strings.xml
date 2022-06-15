@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">auth0-link</string>
+    <string name="title_activity_main">auth0-link</string>
+    <string name="package_name">com.jarcatech.mitienda</string>
+    <string name="custom_url_scheme">com.jarcatech.mitienda</string>
+</resources>
